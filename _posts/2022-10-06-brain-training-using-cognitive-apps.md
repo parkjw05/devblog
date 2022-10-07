@@ -17,7 +17,7 @@ Users who trained with the games improved regardless of age in terms of scores a
 
 According to the World Health Organization (WHO), the world population aged over 60 years will have doubled in number by 2050, with an estimated total of 2 billion people.
 
-![Table1](/blog/assets/Table1.png)
+![Table1](/devblog/assets/Table1.png)
 
 ## Results
 
